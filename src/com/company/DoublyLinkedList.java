@@ -78,6 +78,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @param element the element to be added
      */
     @Override
+    //NEED TO COMPLETE
     public void add(int index, E element) {
 
     }
@@ -89,6 +90,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @return true if the object is in the list, false otherwise
      */
     @Override
+    //NEED TO COMPLETE
     public boolean contains(Object obj) {
         return false;
     }
@@ -98,6 +100,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @return the object at specified position
      */
     @Override
+    //NEED TO COMPLETE
     public E get(int index) {
         return null;
     }
@@ -108,6 +111,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @return true is list is empty, false otherwise.
      */
     @Override
+    //NEED TO COMPLETE
     public boolean isEmpty() {
         return false;
     }
@@ -119,6 +123,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @return The element that was removed from list.
      */
     @Override
+    //NEED TO COMPLETE
     public E remove(int index) {
         return null;
     }
@@ -129,6 +134,7 @@ public class DoublyLinkedList<E> implements List<E> {
      * @return the number of elements in the list.
      */
     @Override
+    //NEED TO COMPLETE
     public int size() {
         return 0;
     }
